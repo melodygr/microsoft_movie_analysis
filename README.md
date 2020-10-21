@@ -8,7 +8,7 @@ Presentation URL: here
 
 Business Problem
 =====  
-Short description of business problem  
+Short description of the business problem  
 
 Data
 =====  
@@ -28,10 +28,9 @@ Add data visualization here.
 
 Conclusions
 =====
-Descriptive conclusions
+Descriptive conclusions and recommendations
 
 Next Steps / Future Work
 =====
 Others things that could be done to improve analysis
-
 
