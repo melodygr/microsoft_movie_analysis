@@ -6,3 +6,5 @@ Prepared and Presented by:  Asher Khan and Melody Peterson
 
 Presentation URL: here
 
+![alt text](images/movies.jpg "Movie Logo Image")
+
