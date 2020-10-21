@@ -1,10 +1,14 @@
 Microsoft Movie Studio Case Study
 ======
+<img src= 
+"images/movies.jpg" 
+         alt="Movie Logo Image" 
+         align="right"> 
+
 Flatiron Data Science Project - Phase 1  
 Prepared and Presented by:  **_Asher Khan_** and **_Melody Peterson_**  
 Presentation URL: here  
 
-![alt text](images/movies.jpg "Movie Logo Image")
 
 Business Problem
 =====  
