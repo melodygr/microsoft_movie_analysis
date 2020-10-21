@@ -1,5 +1,5 @@
-Microsoft Movie Studio Case Study
-======
+# Microsoft Movie Studio Case Study
+
 <img src= 
 "images/movies.jpg" 
          alt="Movie Logo Image" 
@@ -10,31 +10,24 @@ Prepared and Presented by:  **_Asher Khan_** and **_Melody Peterson_**
 Presentation URL: here  
 
 
-Business Problem
-=====  
+### Business Problem    
 Short description of the business problem  
 
-Data
-=====  
+### Data    
 Description of data used and where it was obtained
 
-Questions Explored
-=====
-First Question
----
+### Questions Explored  
+#### First Question  
 Short explanation.  Data used.  Link to notebook.  
 Add data visualization here.
 
-Second Question
----
+#### Second Question  
 Short explanation.  Data used.  Link to notebook.  
 Add data visualization here.
 
-Conclusions
-=====
+### Conclusions  
 Descriptive conclusions and recommendations
 
-Next Steps / Future Work
-=====
+### Next Steps / Future Work  
 Others things that could be done to improve analysis
 
