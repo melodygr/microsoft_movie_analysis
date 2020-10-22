@@ -7,7 +7,7 @@
 
 Flatiron Data Science Project - Phase 1  
 Prepared and Presented by:  **_Asher Khan_** and **_Melody Peterson_**  
-Presentation URL: here  
+Presentation PDF: here  
 
 
 ### Business Problem    
