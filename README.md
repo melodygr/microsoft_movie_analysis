@@ -14,7 +14,7 @@ Presentation URL: here
 Microsoft has decided to create a new movie studio, but the problem is they don't know anything about creating movies.  They have hired us to help them better understand the movie industry.  We will explore what type of films are currently doing best at the box office and translate those findings into actionable insights to help decide what type of films to create. 
 
 ### Data    
-We have been provided data from Box Office Mojo, IMDB, Rotten Tomatoes, and TheMovieDB.org.  We have also chosen to use a database downloaded from OpusData
+We have been provided data from Box Office Mojo, IMDB, Rotten Tomatoes, and TheMovieDB.org.  We have also chosen to use a database downloaded from OpusData that includes information on movies meeting the following criteria:  production year between 2006 and 2018, production budget greater than or equal to $10 million, figures for domestic or international box office. 
 
 ### Questions Explored  
 #### First Question  
