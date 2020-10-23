@@ -26,19 +26,20 @@ Short explanation.  Data used.  Link to notebook.
 Add data visualization here.
 
 #### Which studios are the biggest competition? 
-Competition will be determined by highest world-wide gross revenue.  Data from Box Office Mojo was provided. 
-
+Competition will be determined by highest world-wide gross revenue.  Data from Box Office Mojo was provided.  
 [View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Studio_Competition.ipynb "Studio Competition Notebook")  
+![alt text](https://github.com/melodygr/microsoft_movie_analysis/blob/main/images/studios.png "Studio Graph")
 
-Add data visualization here.
 
-#### Fourth Question  
-Short explanation.  Data used.  Link to notebook.  
-Add data visualization here.
+#### Which movie genres are the most popular?  
+Short explanation.  Data used.  
+[View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Genre_Popularity.ipynb "Genre Popularity Notebook").  
+![alt text](https://github.com/melodygr/microsoft_movie_analysis/blob/main/images/popularity.png "Genre Popularity Graph")
 
-#### Fifth Question  
-Short explanation.  Data used.  Link to notebook.  
-Add data visualization here.
+#### How have box office returns been changing over time?  
+Short explanation.  Data used.  
+[View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Box_Office_Trends.ipynb "Box Office Trends Notebook").  
+![alt text](https://github.com/melodygr/microsoft_movie_analysis/blob/main/images/popularity.png "Box Office Trends Graph")  
 
 ### Conclusions  
 Descriptive conclusions and recommendations
