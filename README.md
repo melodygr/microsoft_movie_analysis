@@ -25,7 +25,7 @@ Add data visualization here.
 Short explanation.  Data used.  Link to notebook.  
 Add data visualization here.
 
-#### Which studios are the biggest competition? 
+#### Which studios are the biggest competitors? 
 We established a rank order of world-wide gross revenue (in millions) for all studios and then examined the top 20 studios. As a comparison, we also calculated the top 100 grossing movies and measured which studios produced them.  Data from Box Office Mojo was provided.  Buena Vista, Fox, and Warner Brothers top our list of highest grossing studios according to this dataset. And Buena Vista received the majority of its world-wide box office revenue from the top 100 blockbuster hits. This would certainly indicate that Buena Vista is the competitor to watch. Interestingly, however, the name Buena Vista was discontinued as a trade name in 2009 by its' parent owner Walt Disney Studios, bringing into question the timeliness of our dataset. Further research into each studio is recommended as well as an analysis of the studios' performance over time.  
 
 [View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Studio_Competition.ipynb "Studio Competition Notebook")  
