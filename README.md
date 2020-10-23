@@ -25,6 +25,21 @@ Add data visualization here.
 Short explanation.  Data used.  Link to notebook.  
 Add data visualization here.
 
+#### Which studios are the biggest competition? 
+Competition will be determined by highest world-wide gross revenue.  Data from Box Office Mojo was provided. 
+
+[View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Studio_Competition.ipynb "Studio Competition Notebook")  
+
+Add data visualization here.
+
+#### Fourth Question  
+Short explanation.  Data used.  Link to notebook.  
+Add data visualization here.
+
+#### Fifth Question  
+Short explanation.  Data used.  Link to notebook.  
+Add data visualization here.
+
 ### Conclusions  
 Descriptive conclusions and recommendations
 
