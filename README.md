@@ -39,9 +39,9 @@ Popularity can be determined in many ways. In this analysis, we looked at how po
 ![alt text](https://github.com/melodygr/microsoft_movie_analysis/blob/main/images/popularity.png "Genre Popularity Graph")
 
 #### How have box office returns been changing over time?  
-Short explanation.  Data used.  
+Here we have taken a high level look at box office sales for movies over time, both domestic and international, to establish an expectation for Microsoft's projected sales revenue.  Data is used from the Opus Movie Data dataframe and includes movies with the following attributes: production year between 2006 and 2018, figures for domestic or international box office, production budget greater or equal to $10 million.  We can see from the graph below that there is a definite increase in box office sales over time. To truly be able to know if the industry is growing however, we would want to account for inflation over the years. Also measuring profit instead of gross sales would ensure us that movies are not costing so much more to make now that it is overshadowing the increase in revenue.  
 [View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Box_Office_Trends.ipynb "Box Office Trends Notebook").  
-![alt text](https://github.com/melodygr/microsoft_movie_analysis/blob/main/images/popularity.png "Box Office Trends Graph")  
+![alt text](https://github.com/melodygr/microsoft_movie_analysis/blob/main/images/avg_gross.png "Avg Box Office Trends Graph")  
 
 ### Conclusions  
 Descriptive conclusions and recommendations
