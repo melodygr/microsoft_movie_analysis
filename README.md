@@ -26,13 +26,15 @@ Short explanation.  Data used.  Link to notebook.
 Add data visualization here.
 
 #### Which studios are the biggest competition? 
-Competition will be determined by highest world-wide gross revenue.  Data from Box Office Mojo was provided.  
+We will answer the question of which studios are Microsoft's biggest competition by establishing a rank order of world-wide gross revenue (in millions) for all studios and then examining the top 20 studios. As a comparison, we will then also calculate the top 20 grossing movies and see which studio has produced them  Data from Box Office Mojo was provided.  Buena Vista, Fox, and Warner Brothers top our list of highest grossing studios according to this dataset. And Buena Vista received the majority of its world-wide box office revenue from the top 100 blockbuster hits. This would certainly indicate that Buena Vista is the competitor to watch. Interestingly, however, the name Buena Vista was discontinued as a trade name in 2009 by its parent owner Walt Disney Studios, bringing into question the timeliness of our dataset. Further research into each studio is recommended as well as an analysis of the studios' performance over time.  
+
 [View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Studio_Competition.ipynb "Studio Competition Notebook")  
 ![alt text](https://github.com/melodygr/microsoft_movie_analysis/blob/main/images/studios.png "Studio Graph")
 
 
 #### Which movie genres are the most popular?  
-Short explanation.  Data used.  
+Popularity can be determined in many ways. In this analysis, we will look at how popular a movie genre is to produce, as evidence by how many movies of each genre are made. Then we will also look at how popular a movie genre is to consumers, based on the TheMovieDataBase popularity score.  We will answer the question of which genres are most popular by establishing a rank order of how many movies are in each genre as well as calculating the percentage of movies with the given genre attribute, since many movies have multiple genres. We will then calculate each genres average popularity according to the TMDB popularity score given to each movie in the category.We will answer the question of which genres are most popular by establishing a rank order of how many movies are in each genre as well as calculating the percentage of movies with the given genre attribute, since many movies have multiple genres. We will then calculate each genres average popularity according to the TMDB popularity score given to each movie in the category.  The top three movie genres produced during the time period of this dataset are Drama, Comedy, and Documentary. But, if the popularity attribute is to be believed, people prefer the movie genres of Adventure, Action, and Fantasy. I would like to compare actual box office gross to these figures to see if popularity actually results in higher gross. But if we assume it does, then Microsoft should consider producing Adventure, Action, and Fantasy films. We should also consider analyzing if movie genre popularity had been changing over time.    
+
 [View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Genre_Popularity.ipynb "Genre Popularity Notebook").  
 ![alt text](https://github.com/melodygr/microsoft_movie_analysis/blob/main/images/popularity.png "Genre Popularity Graph")
 
