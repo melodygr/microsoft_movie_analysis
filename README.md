@@ -17,12 +17,14 @@ Microsoft has decided to create a new movie studio, but the problem is they don'
 We have been provided data from Box Office Mojo, IMDB, Rotten Tomatoes, and TheMovieDB.org.  We have also chosen to use a database downloaded from OpusData that includes information on movies meeting the following criteria:  production year between 2006 and 2018, production budget greater than or equal to $10 million, figures for domestic or international box office. 
 
 ### Questions Explored  
-#### Did average budget for movies increase by production year?  
-Short explanation.  Data used.  Link to notebook.  
+#### Has the average cost for production increased, decreased or remained the same throught the years?  
+The average production cost of movies has been increasing throughout the years.  If microsoft is considering long term production projects, it is important to keep in mind the production cost of future projects will be more.  
+Link to notebook.  
 Add data visualization here.
 
-#### Second Question  
-Short explanation.  Data used.  Link to notebook.  
+#### What is the corrolation between average production budget and total revenue? 
+The average total revenue throughout the years has also increased with production cost. This direct corolation could be possibly just be because of inflation in general costs.  
+Link to notebook.  
 Add data visualization here.
 
 #### Which studios are the biggest competitors? 
