@@ -16,11 +16,6 @@ Microsoft has decided to create a new movie studio, but the problem is they don'
 We have been provided data from Box Office Mojo, IMDB, Rotten Tomatoes, TheMovieDB.org, and The-Numbers.com.  We have also chosen to use a database downloaded from OpusData that includes information on movies meeting the following criteria:  production year between 2006 and 2018, production budget greater than or equal to $10 million, figures for domestic or international box office. 
 
 ### Questions Explored  
-#### How have box office returns been changing over time?  
-Here we have taken a high level look at box office sales for movies over time, both domestic and international, to establish an expectation for Microsoft's projected sales revenue.  Data is used from the Opus Movie Data dataframe and includes movies with the following attributes: production year between 2006 and 2018, figures for domestic or international box office, production budget greater or equal to $10 million.  We can see from the graph below that there is a definite increase in box office sales over time. To truly be able to know if the industry is growing however, we would want to account for inflation over the years. Also measuring profit instead of gross sales would ensure us that movies are not costing so much more to make now that it is overshadowing the increase in revenue.  
-[View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Box_Office_Trends.ipynb "Box Office Trends Notebook").  
-![alt text](https://github.com/melodygr/microsoft_movie_analysis/blob/main/images/avg_gross.png "Avg Box Office Trends Graph")  
-
 #### Which studios are the biggest competitors? 
 We established a rank order of world-wide gross revenue (in millions) for all studios and then examined the top 20 studios. As a comparison, we also calculated the top 100 grossing movies and measured which studios produced them.  Data from Box Office Mojo was provided.  Buena Vista, Fox, and Warner Brothers top our list of highest grossing studios according to this dataset. And Buena Vista received the majority of its world-wide box office revenue from the top 100 blockbuster hits. This would certainly indicate that Buena Vista is the competitor to watch. Interestingly, however, the name Buena Vista was discontinued as a trade name in 2009 by its' parent owner Walt Disney Studios, bringing into question the timeliness of our dataset. Further research into each studio is recommended as well as an analysis of the studios' performance over time.  
 
@@ -33,15 +28,22 @@ Popularity can be determined in many ways. In this analysis, we looked at how po
 [View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Genre_Popularity.ipynb "Genre Popularity Notebook").  
 ![alt text](https://github.com/melodygr/microsoft_movie_analysis/blob/main/images/popularity.png "Genre Popularity Graph")
 
+#### Which movie rating provide the highest box office returns?  
+Here we have taken a high level look at box office sales for movies over time, both domestic and international, to establish an expectation for Microsoft's projected sales revenue.  Data is used from the Opus Movie Data dataframe and includes movies with the following attributes: production year between 2006 and 2018, figures for domestic or international box office, production budget greater or equal to $10 million.  Looking at avg movie revenue by year we can see a definite increase in box office sales over time. 
+
+Most of the movies in our dataset are rated either PG-13 or R.  Let's make the assumption that the same ratio is true for all movies produced.  When we look at the average movie revenue by rating, we see that the top grossing movie ratings are PG, followed by G, and then PG-13.  These would be the ratings that Microsoft should focus on as they generate the most revenue.  For better results, we would need to know that our dataset is representative of the entire population of movies produced in this time period.  Instead, what we know is that this data is only for movies with a production budget over $10 million.  
+[View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Box_Office_Trends.ipynb "Box Office Trends Notebook").  
+![alt text](https://github.com/melodygr/microsoft_movie_analysis/blob/main/images/count_and_avg_by_rating.png "Count and Avg Box Office by Ratings Graph")  
+
 #### Has the average cost for production increased, decreased or remained the same throught the years?  
-For this analysis we combined two dataframes: the Opus Movie Data cross-referenced with The Numbers Movie Budgets data. The average production cost of movies has been increasing throughout the years.  If microsoft is considering long term production projects, it is important to keep in mind the production cost of future projects will be more.  
+For this analysis we combined two dataframes: the Opus Movie Data cross-referenced with The Numbers Movie Budgets data. The average production cost of movies has been increasing throughout the years.  If Microsoft is considering long term production projects, it is important to keep in mind the production cost of future projects will be more.  
 
 [View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Box_Office_Trends.ipynb "Visualizations Notebook").  
 <p align="center">
 <img src="https://github.com/melodygr/microsoft_movie_analysis/blob/main/images/budget.png" alt="Budget Graph" width="600" height="350">
 </p>
 
-#### What is the corrolation between average production budget and total revenue? 
+#### What is the correlation between average production budget and total revenue? 
 The average total revenue throughout the years has also increased with production cost. This direct corrolation could be possibly just be because of inflation in general costs.
 
 [View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Box_Office_Trends.ipynb "Visualizations Notebook").  
@@ -53,5 +55,6 @@ The average total revenue throughout the years has also increased with productio
 Descriptive conclusions and recommendations
 
 ### Next Steps / Future Work  
-Others things that could be done to improve analysis
+Others things that could be done to improve analysis  
+To truly be able to know if the industry is growing however, we would want to account for inflation over the years.  Also measuring profit instead of gross sales would ensure us that movies are not costing so much more to make now that it is overshadowing the increase in revenue. 
 
