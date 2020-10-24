@@ -38,13 +38,17 @@ Popularity can be determined in many ways. In this analysis, we looked at how po
 For this analysis we combined two dataframes: the Opus Movie Data cross-refernced with the tn Movie Budgets data. The average production cost of movies has been increasing throughout the years.  If microsoft is considering long term production projects, it is important to keep in mind the production cost of future projects will be more.  
 
 [View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Box_Office_Trends.ipynb "Visualizations Notebook").  
-<img src="https://github.com/melodygr/microsoft_movie_analysis/blob/main/images/budget.png" alt="Budget Graph" width="600" height="350" class=center>
+<p align="center">
+<img src="https://github.com/melodygr/microsoft_movie_analysis/blob/main/images/budget.png" alt="Budget Graph" width="600" height="350">
+</p>
 
 #### What is the corrolation between average production budget and total revenue? 
 The average total revenue throughout the years has also increased with production cost. This direct corrolation could be possibly just be because of inflation in general costs.
 
 [View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Box_Office_Trends.ipynb "Visualizations Notebook").  
-<img src="https://github.com/melodygr/microsoft_movie_analysis/blob/main/images/budget_and_revenue.png" alt="Budget and Revenue Graph" width="600" height="350" class=center>
+<p align="center">
+<img src="https://github.com/melodygr/microsoft_movie_analysis/blob/main/images/budget_and_revenue.png" alt="Budget and Revenue Graph" width="600" height="350">
+</p>
 
 ### Conclusions  
 Descriptive conclusions and recommendations
