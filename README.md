@@ -28,7 +28,7 @@ Popularity can be determined in many ways. In this analysis, we looked at how po
 [View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Genre_Popularity.ipynb "Genre Popularity Notebook").  
 ![alt text](https://github.com/melodygr/microsoft_movie_analysis/blob/main/images/popularity.png "Genre Popularity Graph")
 
-#### Which movie rating provide the highest box office returns?  
+#### Which movie ratings provide the highest box office returns?  
 Here we have taken a high level look at box office sales for movies over time, both domestic and international, to establish an expectation for Microsoft's projected sales revenue.  Data is used from the Opus Movie Data database.  Looking at average movie revenue by year we can see a definite increase in box office sales over time. Most of the movies in our dataset are rated either PG-13 or R.  Making the assumption that the same ratio is true for all movies produced, when we look at the average movie revenue by rating, we see that the top grossing movie ratings are PG, followed by G, and then PG-13.  These would be the ratings that Microsoft should focus on as they generate the most revenue.  For better results, we would need to know that our dataset is representative of the entire population of movies produced in this time period.  Instead, what we know is that this data is only for movies with a production budget over $10 million.  
 
 [View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Box_Office_Trends.ipynb "Box Office Trends Notebook").  
