@@ -44,7 +44,7 @@ For this analysis we combined two dataframes: the Opus Movie Data cross-referenc
 </p>
 
 #### What is the correlation between average production budget and total revenue? 
-The average total revenue throughout the years has also increased with production cost. This direct corrolation could be possibly just be because of inflation in general costs.
+The average total revenue throughout the years has also increased with production cost. This direct correlation could be possibly just be because of inflation in general costs.
 
 [View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Box_Office_Trends.ipynb "Visualizations Notebook").  
 <p align="center">
