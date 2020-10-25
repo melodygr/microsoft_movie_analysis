@@ -36,7 +36,7 @@ Here we have taken a high level look at box office sales for movies over time, b
 ![alt text](https://github.com/melodygr/microsoft_movie_analysis/blob/main/images/count_and_avg_by_rating.png "Count and Avg Box Office by Ratings Graph")  
 
 #### Has the average cost for production increased, decreased or remained the same throught the years?  
-For this analysis we combined two dataframes: the Opus Movie Data cross-referenced with The Numbers Movie Budgets data. The average production cost of movies has been increasing throughout the years.  If Microsoft is considering long term production projects, it is important to keep in mind the production cost of future projects will be more.  
+For this analysis we combined two dataframes: the Opus Movie Data cross-referenced with The Numbers Movie Budgets data. The average production cost of movies has been increasing throughout the years. The production cost had a steady growth up until the 1990's when the production cost started to grow rapidly.  If Microsoft is considering long term production projects, it is important to keep in mind the production cost of future projects will be more.
 
 [View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Box_Office_Trends.ipynb "Visualizations Notebook").  
 <p align="center">
@@ -44,7 +44,7 @@ For this analysis we combined two dataframes: the Opus Movie Data cross-referenc
 </p>
 
 #### What is the correlation between average production budget and total revenue? 
-The average total revenue throughout the years has also increased with production cost. This direct correlation could be possibly just be because of inflation in general costs.
+The average total revenue throughout the years has also increased with production cost. In the mid 1900's there were two particular movies that grossed more than expected: "Snow White" This direct correlation could possibly just be because of inflation in general costs. However, Microsoft should consider producing multiple movies simultaneously in order to avoid high production costs in the future; meanwhile spreading out the movie release dates in order to maximize revenue.
 
 [View the data calculation notebook](https://github.com/melodygr/microsoft_movie_analysis/blob/main/Notebooks/Box_Office_Trends.ipynb "Visualizations Notebook").  
 <p align="center">
