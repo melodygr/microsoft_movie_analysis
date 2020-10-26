@@ -7,7 +7,7 @@
 
 Flatiron Data Science Project - Phase 1  
 Prepared and Presented by:  **_Asher Khan_** and **_Melody Peterson_**  
-Presentation PDF: here  
+[Presentation PDF](https://github.com/melodygr/microsoft_movie_analysis/blob/main/presentation.pdf "Presentation PDF")  
 
 ### Business Problem    
 Microsoft has decided to create a new movie studio, but the problem is they don't know anything about creating movies.  They have hired us to help them better understand the movie industry.  We will explore what type of films are currently doing best at the box office and translate those findings into actionable insights to help decide what type of films to create. 
